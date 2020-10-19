@@ -2,7 +2,7 @@
 
 ### Usage
 ```bash
-./zust-xxtb-tools -c /path/to/configuration
+./zust-xxtb-tools /path/to/configuration
 ```
 
 ### Configuration
